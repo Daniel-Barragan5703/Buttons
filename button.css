@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+#mybutton{
+    background-color: red;
+}
+
+#mybutton2{
+    background-color: aqua;
+}
+
+#mybutton3{
+    background-color: green
+}
+
+
