@@ -1,6 +1,6 @@
 let h1_text = document.querySelector("#answer");
-let p_tag = document.querySelector('p')
-;let btn = document.querySelector("#mybutton");
+let p_tag = document.querySelector('p');
+let btn = document.querySelector("#mybutton");
 let btn2 = document.querySelector("#mybutton2");
 let btn3 = document.querySelector("#mybutton3");
 
